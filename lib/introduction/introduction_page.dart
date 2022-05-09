@@ -122,7 +122,7 @@ class IntroductionPage extends StatelessWidget {
                                           delay: _controller.getDelay(),
                                           child: const Text(
                                             //TODO:bisa diganti dengan nama sendiri
-                                            "Hendri Hendrawan",
+                                            "Aldi Alpaujan",
                                             style: TextStyle(
                                               fontSize: 20,
                                               fontWeight: FontWeight.bold,
