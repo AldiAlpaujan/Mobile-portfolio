@@ -111,7 +111,7 @@ class Portfolio extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Text(
-                              "Hendri Hendrawan",
+                              "Aldi Alpaujan",
                               style: _sytle.copyWith(
                                   fontSize: 24, fontWeight: FontWeight.bold),
                             ),
@@ -194,7 +194,7 @@ class Portfolio extends StatelessWidget {
                             child: ElevatedButton(
                               onPressed: () => Get.back(),
                               child: const FittedBox(
-                                  child: Text("Mengenai HENDRI")),
+                                  child: Text("Mengenai Aldi")),
                             ),
                           ),
                           const SizedBox(width: 15),
